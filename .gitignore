@@ -1,0 +1,15 @@
+# Pre-publication experimental data (held back until preprint release)
+Analysis.zip
+
+# Build outputs and dependencies
+firmware/.pio/
+firmware/.vscode/
+pramon/node_modules/
+pramon/dist/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+*.log
